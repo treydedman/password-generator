@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import './PasswordGenerator.css';
 import { FaRegCopy } from 'react-icons/fa';  // Import the Clipboard Icon
 
