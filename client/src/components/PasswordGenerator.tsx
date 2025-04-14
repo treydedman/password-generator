@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import './PasswordGenerator.css';
-import { FaRegCopy } from 'react-icons/fa';  // Import the Clipboard Icon
+import { FaRegCopy } from 'react-icons/fa';
 
 export function PasswordGenerator() {
   const [password, setPassword] = useState('');
